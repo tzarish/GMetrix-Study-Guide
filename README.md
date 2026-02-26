@@ -1,2 +1,2 @@
 # GMetrix-Study-Guide
-Breaking Down Bubbling and Cascading in Web Development
+Breaking Down Event Objects and Bubbling/Cascading in Web Development
